@@ -1,0 +1,15 @@
+.top{
+    background-color:#393382;
+    color: white;
+    padding: 24px !important;
+}
+.bot{
+    background-color: black;
+    color: white;
+}
+.white{
+    color: white;
+}
+h5{
+    font-weight: bold;
+}
